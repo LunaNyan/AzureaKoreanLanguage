@@ -1,0 +1,1 @@
+Azurea 폴더에서 Language 폴더에 모두 덮어쓰시면 됩니다.
